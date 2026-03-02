@@ -1,0 +1,22 @@
+# Core Dependencies
+firebase-admin>=6.2.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+ccxt>=4.1.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# ML/Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+tensorboard>=2.13.0
+
+# Data Processing
+ta-lib>=0.4.28  # Technical analysis
+yfinance>=0.2.0  # Yahoo Finance fallback
+
+# Utilities
+schedule>=1.2.0  # Task scheduling
+tqdm>=4.65.0  # Progress bars
+loguru>=0.7.0  # Enhanced logging
